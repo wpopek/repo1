@@ -1,2 +1,2 @@
 #user1 dodaje komentarz
-#user2 dodaje komentarz
+#user1 dodaje kom i go zmienia
