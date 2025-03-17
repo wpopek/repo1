@@ -1,6 +1,0 @@
-#user 1 komentarz
-<<<<<<< HEAD
-#user2 komentarz
-=======
-#drugi komentarz
->>>>>>> e061e13 (dodanie drugiego komentarza)
